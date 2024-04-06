@@ -1,0 +1,6 @@
+venv/*
+files/*
+models/*
+.env
+.DS_Store
+.vscode/*
